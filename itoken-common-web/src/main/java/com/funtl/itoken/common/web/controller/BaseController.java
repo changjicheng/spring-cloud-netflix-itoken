@@ -59,4 +59,27 @@ public abstract class BaseController<T extends BaseDomain, S extends BaseClientS
         return "GG";
     }
 
+    /**
+     * description: dev1
+     * @Version 1.0 2019/6/17 15:26 by 常继承（jichegn.chang@ucarinc.com）创建
+     */
+    private testDev(String src){
+        return src;
+    }
+
+    /**
+     * description: dev2
+     * @Version 1.0 2019/6/17 15:26 by 常继承（jichegn.chang@ucarinc.com）创建
+     */
+    private testDev2(String src){
+        return src;
+    }
+
+    /**
+     * description: dev3
+     * @Version 1.0 2019/6/17 15:26 by 常继承（jichegn.chang@ucarinc.com）创建
+     */
+    private testDev3(String src){
+        return src;
+    }
 }
