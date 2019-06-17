@@ -51,4 +51,12 @@ public abstract class BaseController<T extends BaseDomain, S extends BaseClientS
         }
         return dataTablesResult;
     }
+    /**
+     * description: t1 提交
+     * @Version 1.0 2019/6/17 15:35 by 常继承（jichegn.chang@ucarinc.com）创建
+     */
+    private String getKey(){
+        return "GG";
+    }
+
 }
