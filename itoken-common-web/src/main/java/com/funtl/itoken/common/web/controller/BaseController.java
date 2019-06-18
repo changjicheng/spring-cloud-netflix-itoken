@@ -84,6 +84,7 @@ public abstract class BaseController<T extends BaseDomain, S extends BaseClientS
      */
     private testDev3(String src){
         String a = "a";
+        String b = "b";
         return src;
     }
 }
