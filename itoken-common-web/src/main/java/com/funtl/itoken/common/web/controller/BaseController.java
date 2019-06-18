@@ -64,6 +64,7 @@ public abstract class BaseController<T extends BaseDomain, S extends BaseClientS
      * @Version 1.0 2019/6/17 15:26 by 常继承（jichegn.chang@ucarinc.com）创建
      */
     private testDev(String src){
+        Integer i =1;
         return src;
     }
 
@@ -72,6 +73,8 @@ public abstract class BaseController<T extends BaseDomain, S extends BaseClientS
      * @Version 1.0 2019/6/17 15:26 by 常继承（jichegn.chang@ucarinc.com）创建
      */
     private testDev2(String src){
+        Integer u =2;
+        Integer o =3;
         return src;
     }
 
